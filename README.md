@@ -7,13 +7,13 @@ This is a simple Python-based Coin Flip Simulator created as a learning project 
 - [About](#about)  
 - [Prerequisites](#prerequisites)
 - [Features](#features) 
-- [Getting Started / Installation](#getting-started--installation)  
+- [Getting Started/Installation](#getting-started--installation)  
 - [Usage](#usage)   
 - [Learning Outcomes](#learning-outcomes)  
 - [Contributing](#contributing)  
 - [License](#license)
 - [Credits/Acknowledgements](#credits--acknowledgements)  
-- [Contact / Author](#contact--author)
+- [Contact](#contact)
 
 ## Project Name
 Coin Flip Simulator
@@ -34,7 +34,7 @@ Outputs the result as "Heads" or "Tails."
 Simple and lightweight, ideal for learning purposes.
 
 
-## Getting Started / Installation
+## Getting Started/Installation
 
 Clone the repository to your local machine:git clone https://github.com/NickAlvarez20/CoinFlip.git
 
