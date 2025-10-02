@@ -1,27 +1,27 @@
-#Project Name
+# Project Name
 Coin Flip Simulator
 
-#Description
+# Description
 This is a simple Python-based Coin Flip Simulator created as a learning project to practice basic Python programming concepts, including random number generation, user input, and basic logic. The program simulates flipping a coin and displays the result as either "Heads" or "Tails." This project was developed to explore Python's random module and to build familiarity with writing simple scripts.
 Features
 
-#Prerequisites
+# Prerequisites
 To run this project, you need:
 
 Python 3.x installed on your system.
 No additional libraries are required, as the project uses Python's built-in random module.
 
-#Features
+# Features
 Simulates a coin flip using Python's random module.
 Outputs the result as "Heads" or "Tails."
 Simple and lightweight, ideal for learning purposes.
 
 
-#Installation
+# Installation
 
 Clone the repository to your local machine:git clone https://github.com/NickAlvarez20/CoinFlip.git
 
-#Usage
+# Usage
 
 Run the Python script (coin_flip.py) from the command line:python coin_flip.py
 
@@ -43,7 +43,7 @@ Running the script will output something like:
 The coin landed on: Heads
 
 
-#Learning Outcomes
+# Learning Outcomes
 
 This project helped me:
 
@@ -51,16 +51,16 @@ Understand Python's random module and its choice function.
 Practice writing clean, simple Python code.
 Gain experience with basic control flow and user interaction in Python.
 
-#Contributing
+# Contributing
 This is a personal learning project, so contributions are not expected. However, if you have suggestions or feedback, feel free to open an issue or contact me!
 
-#License
+# License
 
 This project is unlicensed and free to use for educational purposes. Feel free to explore and modify the code as a learning exercise.
 
-#Credits/Acknowledgements
+# Credits/Acknowledgements
 
 This project was created by NickAlvarez20 as part of my journey to learn Python programming. Check out my other repositories to see more of my work!
 
-#Contact
+# Contact
 
