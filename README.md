@@ -3,16 +3,16 @@
 This is a simple Python-based Coin Flip Simulator created as a learning project to practice basic Python programming concepts, including random number generation, user input, and basic logic. 
 
 ## Table of Contents
-
+- [Project Name](#project-name)  
 - [About](#about)  
 - [Prerequisites](#prerequisites)
 - [Features](#features) 
-- [Getting Started/Installation](#getting-startedinstallation)  
+- [Getting Started & Installation](#getting-started--installation)  
 - [Usage](#usage)   
 - [Learning Outcomes](#learning-outcomes)  
 - [Contributing](#contributing)  
 - [License](#license)
-- [Credits/Acknowledgements](#creditsacknowledgements)  
+- [Credits & Acknowledgements](#credits--acknowledgements)  
 - [Contact](#contact)
 
 ## Project Name
@@ -20,7 +20,7 @@ Coin Flip Simulator
 
 ## About
 The program simulates flipping a coin and displays the result as either "Heads" or "Tails." This project was developed to explore Python's random module and to build familiarity with writing simple scripts.
-Features
+
 
 ## Prerequisites
 To run this project, you need:
@@ -34,13 +34,15 @@ Outputs the result as "Heads" or "Tails."
 Simple and lightweight, ideal for learning purposes.
 
 
-## Getting Started/Installation
+## Getting Started & Installation
 
-Clone the repository to your local machine:git clone https://github.com/NickAlvarez20/CoinFlip.git
+Clone the repository to your local machine:
+`git clone https://github.com/NickAlvarez20/CoinFlip.git`
 
 ## Usage
 
-Run the Python script (coin_flip.py) from the command line:python coin_flip.py
+Run the Python script (coin_flip.py) from the command line:
+`python coin_flip.py`
 
 
 The program will simulate a coin flip and display the result (e.g., "Heads" or "Tails").
@@ -82,7 +84,7 @@ Please include clear explanations of your changes and test any new code.
 This repository is open and free for educational use.
 *(If you decide on a specific license later, insert it here — e.g. MIT, Apache 2.0, etc.)*
 
-## Credits/Acknowledgements
+## Credits & Acknowledgements
 
 This project was created by NickAlvarez20 as part of my journey to learn Python programming. Check out my other repositories to see more of my work!
 
