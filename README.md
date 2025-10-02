@@ -7,12 +7,12 @@ This is a simple Python-based Coin Flip Simulator created as a learning project 
 - [About](#about)  
 - [Prerequisites](#prerequisites)
 - [Features](#features) 
-- [Getting Started/Installation](#getting-started--installation)  
+- [Getting Started/Installation](#getting-startedinstallation)  
 - [Usage](#usage)   
 - [Learning Outcomes](#learning-outcomes)  
 - [Contributing](#contributing)  
 - [License](#license)
-- [Credits/Acknowledgements](#credits--acknowledgements)  
+- [Credits/Acknowledgements](#creditsacknowledgements)  
 - [Contact](#contact)
 
 ## Project Name
