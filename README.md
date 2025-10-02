@@ -1,27 +1,44 @@
-# Project Name
+# CoinFlip Project
+
+This is a simple Python-based Coin Flip Simulator created as a learning project to practice basic Python programming concepts, including random number generation, user input, and basic logic. 
+
+## Table of Contents
+
+- [About](#about)  
+- [Prerequisites](#prerequisites)
+- [Features](#features) 
+- [Getting Started / Installation](#getting-started--installation)  
+- [Usage](#usage)   
+- [Learning Outcomes](#learning-outcomes)  
+- [Contributing](#contributing)  
+- [License](#license)
+- [Credits/Acknowledgements](#credits--acknowledgements)  
+- [Contact / Author](#contact--author)
+
+## Project Name
 Coin Flip Simulator
 
-# Description
-This is a simple Python-based Coin Flip Simulator created as a learning project to practice basic Python programming concepts, including random number generation, user input, and basic logic. The program simulates flipping a coin and displays the result as either "Heads" or "Tails." This project was developed to explore Python's random module and to build familiarity with writing simple scripts.
+## About
+The program simulates flipping a coin and displays the result as either "Heads" or "Tails." This project was developed to explore Python's random module and to build familiarity with writing simple scripts.
 Features
 
-# Prerequisites
+## Prerequisites
 To run this project, you need:
 
 Python 3.x installed on your system.
 No additional libraries are required, as the project uses Python's built-in random module.
 
-# Features
+## Features
 Simulates a coin flip using Python's random module.
 Outputs the result as "Heads" or "Tails."
 Simple and lightweight, ideal for learning purposes.
 
 
-# Installation
+## Getting Started / Installation
 
 Clone the repository to your local machine:git clone https://github.com/NickAlvarez20/CoinFlip.git
 
-# Usage
+## Usage
 
 Run the Python script (coin_flip.py) from the command line:python coin_flip.py
 
@@ -43,7 +60,7 @@ Running the script will output something like:
 The coin landed on: Heads
 
 
-# Learning Outcomes
+## Learning Outcomes
 
 This project helped me:
 
@@ -51,16 +68,24 @@ Understand Python's random module and its choice function.
 Practice writing clean, simple Python code.
 Gain experience with basic control flow and user interaction in Python.
 
-# Contributing
-This is a personal learning project, so contributions are not expected. However, if you have suggestions or feedback, feel free to open an issue or contact me!
+## Contributing
+This is primarily a personal learning / portfolio repository, so formal contributions aren’t required. However, if you spot bugs, have project ideas, or want to add improvements, feel free to:
 
-# License
+1. Fork the repo
+2. Create a feature branch
+3. Submit a pull request
 
-This project is unlicensed and free to use for educational purposes. Feel free to explore and modify the code as a learning exercise.
+Please include clear explanations of your changes and test any new code.
 
-# Credits/Acknowledgements
+## License
+
+This repository is open and free for educational use.
+*(If you decide on a specific license later, insert it here — e.g. MIT, Apache 2.0, etc.)*
+
+## Credits/Acknowledgements
 
 This project was created by NickAlvarez20 as part of my journey to learn Python programming. Check out my other repositories to see more of my work!
 
-# Contact
-
+## Contact
+Created and maintained by **NickAlvarez20**.
+You can find more of my work at [NickAlvarez20 on GitHub](https://github.com/NickAlvarez20).
