@@ -49,6 +49,8 @@ The program will simulate a coin flip and display the result (e.g., "Heads" or "
 Follow any prompts (if applicable) to repeat the simulation or exit.
 
 Example
+
+
 Assuming the project contains a basic script like this (not included here but inferred):
 import random
 
